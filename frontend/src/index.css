@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "sugarmagic";
+  src: url("/sugarmagicpersonaluseonly-jemyo.otf") format("truetype");
+   font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "infinity";
+  src: url("/StarifeDemo-ZVovB.ttf") format("truetype");
+   font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Ragaland";
+  src: url("/Ragaland.otf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Khuja";
+  src: url("/Khuja-Uppercase.otf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cartel";
+  src: url("/Cartel Deux Sharp.otf") format("truetype");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+body{
+  background-color: #FFFFFF;
+}
